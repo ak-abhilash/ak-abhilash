@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 📝 I regularly write articles on [http://www.medium.com/@abhilash_krishna](http://www.medium.com/@abhilash_krishna)
+- 📝 I irregularly write articles on [http://www.medium.com/@abhilash_krishna](http://www.medium.com/@abhilash_krishna)
 
 - 📫 How to reach me **abhilashkrishna444@gmail.com**
 
