@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4E16AQFcIwuUJUGzAg/profile-displaybackgroundimage-shrink_350_1400/0/1674407224461?e=1695859200&v=beta&t=_UihBvTT_dFgDjfOG_GRY4kcEN_MH6PdPHx7aG7rImM)]
+
 <h1 align="center">Hi 👋, I'm Abhilash</h1>
 <h3 align="center">Data Analyst and Aspiring Data Scientist | Exploring Insights and Patterns in Data</h3>
 
