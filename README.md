@@ -3,7 +3,7 @@
 <h3 align="center">Data Analyst and Aspiring Data Scientist | Exploring Insights and Patterns in Data</h3>
 
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python** along with **Machine Learning**
 
 - 📝 I irregularly write articles on [http://www.medium.com/@abhilash_krishna](http://www.medium.com/@abhilash_krishna)
 
