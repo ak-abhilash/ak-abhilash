@@ -2,8 +2,9 @@
 <h1 align="center">Hi 👋, I'm Abhilash</h1>
 <h3 align="center">Data Analyst and Aspiring Data Scientist | Exploring Insights and Patterns in Data</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ak-abhilash&label=Profile%20views&color=0e75b6&style=flat" alt="ak-abhilash" /> </p>
 
-- 🌱 I’m currently learning **Python** along with **Machine Learning**
+- 🌱 I’m currently learning **Python** along with **Machine Learning and Big Data Analytics**
 
 - 📝 I irregularly write articles on [http://www.medium.com/@abhilash_krishna](http://www.medium.com/@abhilash_krishna)
 
@@ -34,6 +35,14 @@
   <a href="https://www.r-project.org" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/2560px-R_logo.svg.png" alt="R Programming" width="40" height="40"/>
   </a>
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+    </a> 
+     <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
+    </a>
+    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
+    </a> 
+     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+      </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
   </a>
