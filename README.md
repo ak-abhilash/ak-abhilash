@@ -10,6 +10,8 @@
 
 - 📫 How to reach me **abhilashkrishna444@gmail.com**
 
+- 📊 Tableau Profile: https://public.tableau.com/app/profile/abhilash.krishna
+
 
 <p align="left">
 </p>
