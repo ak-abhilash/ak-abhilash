@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Abhilash</h1>
-<h3 align="center">Data Analyst and Aspiring Data Scientist | Exploring Insights and Patterns in Data</h3>
+<h3 align="center">Data Enthusiast Transitioning to Data Engineering | Building Robust Data Pipelines and Infrastructure</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ak-abhilash&label=Profile%20views&color=0e75b6&style=flat" alt="ak-abhilash" /> </p>
 
-- 🌱 I’m currently learning **Python** along with **Machine Learning and Big Data Analytics**
+- 🌱 I’m currently learning **Cloud Computing on AWS and Azure** along with **Apache Spark**
 
 - 📝 I irregularly write articles on [http://www.medium.com/@abhilash_krishna](http://www.medium.com/@abhilash_krishna)
 
@@ -46,14 +46,15 @@
      <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
     </a>
     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-    </a> 
-     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+</a>
       </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
-  </a>
+ <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="40" height="40"/>
+</a>
   <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-line.svg" alt="C++" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
 </a>
 </p>
 
