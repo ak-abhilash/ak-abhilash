@@ -49,6 +49,17 @@
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
 </a>
+      <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/benc-uk/icon-collection/master/logos/azure-offical.svg" alt="AWS" width="40" height="40"/>
+</a>
+      </a>
+    <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/benc-uk/icon-collection/master/logos/kafka.svg" alt="AWS" width="40" height="40"/>
+</a>
+      </a>
+      <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/benc-uk/icon-collection/master/logos/spark.svg" alt="AWS" width="40" height="40"/>
+</a>
       </a>
  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="40" height="40"/>
