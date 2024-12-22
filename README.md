@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ak-abhilash&label=Profile%20views&color=0e75b6&style=flat" alt="ak-abhilash" /> </p>
 
-- 🌱 I’m currently learning **Cloud Computing on AWS and Azure** along with **Apache Spark**
+- 🌱 I’m currently learning **Cloud Platforms** along with **Apache Spark**
 
 - 📝 I irregularly write articles on [http://www.medium.com/@abhilash_krishna](http://www.medium.com/@abhilash_krishna)
 
